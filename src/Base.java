@@ -13,7 +13,7 @@ import org.openqa.selenium.support.ui.WebDriverWait;
 public class Base {
 
 	@SuppressWarnings("deprecation")
-
+@print vishal
 	public static void main(String[] args) throws InterruptedException {
 		// TODO Auto-generated method stub
 
