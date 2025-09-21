@@ -10,7 +10,7 @@ import org.openqa.selenium.support.ui.FluentWait;
 import org.openqa.selenium.support.ui.Wait;
 
 public class FluentWaitTest {
-
+#testing as a new architect
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		System.setProperty("webdriver.chrome.driver",
